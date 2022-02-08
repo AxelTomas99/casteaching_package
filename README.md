@@ -4,7 +4,7 @@
  
 
 ```bash
-npm install casteaching
+npm install @axeltomas/axeltomas_casteaching
 ```
 
 # Usage
@@ -35,3 +35,4 @@ Axel Tomas Altadill
 
 # More info
 - https://github.com/acacha/casteaching
+- https://github.com/AxelTomas99/casteaching_package

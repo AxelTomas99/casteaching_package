@@ -1,14 +1,26 @@
 {
   "name": "@axeltomas/axeltomas_casteaching",
-  "version": "1.0.2",
-  "description": "Javascript package casteaching API",
+  "version": "1.0.3",
+  "description": "# Instal·lació",
   "main": "index.js",
+  "dependencies": {
+    "axios": "^0.25.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AxelTomas99/casteaching_package.git"
+  },
+  "keywords": [
+    "axeltomas_casteaching"
+  ],
   "author": "Axel Tomas Altadill",
   "license": "ISC",
-  "dependencies": {
-    "axios": "^0.25.0"
-  }
+  "bugs": {
+    "url": "https://github.com/AxelTomas99/casteaching_package/issues"
+  },
+  "homepage": "https://github.com/AxelTomas99/casteaching_package#readme"
 }
